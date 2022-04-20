@@ -1,0 +1,20 @@
+Learning SQL by Alan Beaulieu
+Mastering pandas by Femi Anthony
+MySQL Cookbook by Paul DuBois
+Head First SQL by Lynn Beighley
+Programming in Python by Mark Summerfield
+Python ESSENTIAL REFERENCE by David M. Beazley
+Python Cookbook by David Beazley and Brian K. Jones
+Python for Data Analysis by Wes McKinney
+Python Programming Examples
+R Graphics Cookbook by Winston Chang
+R Cookbook by Paul Teetor
+R Programming for Data Science by Roger D. Peng
+R For Dummies- by by Andrie de Vries and Joris Meys
+Hands-On Programming with R by Garrett Grolemund
+Getting Started with RStudio by John Verzani
+R programming by Tutorialspoint
+SQL: The Complete Reference by James R. Groff and Paul N. Weinberg
+SQL-1 by Tutorialspoint
+SQL-2 by Tutorialspoint
+Programming Python by Mark Lutz
